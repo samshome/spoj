@@ -1,3 +1,4 @@
+#PALIN
 def palindrome(num, dig):
     left =num[:dig/2]
     if dig%2==1:
